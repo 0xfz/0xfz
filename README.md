@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0xfz
+- 👀 I’m interested in Backend
+- 🌱 I’m currently learning Node.js, and Laravel
